@@ -144,6 +144,7 @@ body {
 .lista__link a:hover {
     color: var(--botao-azul);
 }
+
 @media screen and (max-width: 768px) {
     .container {
         display: block;
